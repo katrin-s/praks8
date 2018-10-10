@@ -1,5 +1,8 @@
 body {
     background-color: seashell;
+    font-family: 'Pontano Sans', sans-serif;
+    font-size: 18px;
+    line-height: 130%;
 }
 .content {
     width: 90%;
@@ -8,4 +11,8 @@ body {
 ul {
     margin: 0 auto;
     margin-top: 30px;
+}
+li {
+    padding: 10px;
+    text-align: left;
 }
