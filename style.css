@@ -1,0 +1,11 @@
+body {
+    background-color: seashell;
+}
+.content {
+    width: 90%;
+    text-align: center;
+}
+ul {
+    margin: 0 auto;
+    margin-top: 30px;
+}
